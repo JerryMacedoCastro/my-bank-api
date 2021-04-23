@@ -1,0 +1,30 @@
+2021-04-22T23:58:42.303Z [my-bank-api] info: API has started
+2021-04-23T00:02:01.522Z [my-bank-api] info: API has started
+2021-04-23T00:05:52.130Z [my-bank-api] info: API has started
+2021-04-23T00:05:55.385Z [my-bank-api] info: API has started
+2021-04-23T00:06:01.671Z [my-bank-api] info: API has started
+2021-04-23T00:07:31.030Z [my-bank-api] info: API has started
+2021-04-23T00:08:13.374Z [my-bank-api] info: API has started
+2021-04-23T00:08:51.855Z [my-bank-api] info: API has started
+2021-04-23T00:08:56.464Z [my-bank-api] info: API has started
+2021-04-23T00:09:03.805Z [my-bank-api] info: API has started
+2021-04-23T00:11:21.747Z [my-bank-api] info: POST /account - {"id":4,"name":"tasass","balance":456.1}
+2021-04-23T00:11:59.684Z [my-bank-api] info: API has started
+2021-04-23T00:12:41.505Z [my-bank-api] info: API has started
+2021-04-23T00:14:07.229Z [my-bank-api] info: API has started
+2021-04-23T00:14:58.501Z [my-bank-api] info: API has started
+2021-04-23T00:16:13.925Z [my-bank-api] info: API has started
+2021-04-23T00:16:36.037Z [my-bank-api] info: POST /account - {"id":5,"name":"Teste de lopgg","balance":456.1}
+2021-04-23T00:18:10.434Z [my-bank-api] info: API has started
+2021-04-23T00:18:59.716Z [my-bank-api] info: API has started
+2021-04-23T00:19:31.165Z [my-bank-api] info: API has started
+2021-04-23T00:20:42.324Z [my-bank-api] info: API has started
+2021-04-23T00:22:14.817Z [my-bank-api] info: GET /account
+2021-04-23T00:22:37.472Z [my-bank-api] info: API has started
+2021-04-23T00:22:42.964Z [my-bank-api] info: API has started
+2021-04-23T00:23:03.437Z [my-bank-api] info: GET /account
+2021-04-23T00:23:22.124Z [my-bank-api] info: GET /account
+2021-04-23T00:23:30.757Z [my-bank-api] info: GET /account
+2021-04-23T00:24:17.535Z [my-bank-api] info: API has started
+2021-04-23T00:24:27.173Z [my-bank-api] info: POST /account - {"id":1,"balance":40.55}
+2021-04-23T00:24:46.780Z [my-bank-api] info: API has started
