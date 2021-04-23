@@ -9,7 +9,7 @@ npm install
 
 ### To run the project on port 3333: 
 ```bash
-yarn start
+yarn dev
 # ou 
-npm start
+npm dev
 ```
