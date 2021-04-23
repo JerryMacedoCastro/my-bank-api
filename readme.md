@@ -9,7 +9,12 @@ npm install
 
 ### To run the project on port 3333: 
 ```bash
-yarn start
+yarn dev
 # ou 
-npm start
+npm dev
+```
+
+### To test endpoints
+```bash
+On insomnia import the file  Insomnia_2021-04-22.json 
 ```

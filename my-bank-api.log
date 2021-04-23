@@ -28,3 +28,4 @@
 2021-04-23T00:24:17.535Z [my-bank-api] info: API has started
 2021-04-23T00:24:27.173Z [my-bank-api] info: POST /account - {"id":1,"balance":40.55}
 2021-04-23T00:24:46.780Z [my-bank-api] info: API has started
+2021-04-23T00:33:15.903Z [my-bank-api] info: API has started
